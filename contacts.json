@@ -1,0 +1,23 @@
+{
+  "contact": {
+    "firstName": "Candaith",
+    "lastName": "Rosen",
+    "email": "candy@quickpost.com",
+    "favoriteColor": "Green",
+    "birthday": "12/24/2018"
+  },
+  "contact2": {
+    "firstName": "Goldberry",
+    "lastName": "Bombadil",
+    "email": "goldy@quickpost.com",
+    "favoriteColor": "Yellow",
+    "birthday": "10/10/2018"
+  },
+  "contact3": {
+    "firstName": "Dixie",
+    "lastName": "Pixie",
+    "email": "dixie@quickpost.com",
+    "favoriteColor": "Blue",
+    "birthday": "08/27/2008"
+  }
+}
